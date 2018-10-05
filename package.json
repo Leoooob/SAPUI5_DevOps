@@ -1,0 +1,27 @@
+{
+  "name": "sapui5_devops",
+  "version": "1.0.0",
+  "description": "how to use babel and gulp to build IE9 compliant javascript",
+  "main": "webapp/index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Leoooob/SAPUI5_DevOps.git"
+  },
+  "author": "Leon Hassan (Leoooob)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Leoooob/SAPUI5_DevOps/issues"
+  },
+  "homepage": "https://github.com/Leoooob/SAPUI5_DevOps#readme",
+  "devDependencies": {
+    "@babel/core": "^7.1.2",
+    "@babel/preset-env": "^7.1.0",
+    "babel-cli": "^6.26.0",
+    "gulp": "^3.9.1",
+    "gulp-babel": "^8.0.0",
+    "gulp-rename": "^1.4.0"
+  }
+}
